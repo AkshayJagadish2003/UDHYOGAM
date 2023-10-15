@@ -1,0 +1,8 @@
+@charset "utf-8";
+body header h1 {
+    background-color: #FF6500;
+    background-image: url(images/k.jpg);
+}
+body {
+
+}

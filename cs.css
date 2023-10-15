@@ -1,0 +1,7 @@
+@charset "utf-8";
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(26,25,204,1.00) 0%,rgba(98,99,181,1.00) 99.59%);
+    background-image: -moz-linear-gradient(270deg,rgba(26,25,204,1.00) 0%,rgba(98,99,181,1.00) 99.59%);
+    background-image: -o-linear-gradient(270deg,rgba(26,25,204,1.00) 0%,rgba(98,99,181,1.00) 99.59%);
+    background-image: linear-gradient(180deg,rgba(26,25,204,1.00) 0%,rgba(98,99,181,1.00) 99.59%);
+}
